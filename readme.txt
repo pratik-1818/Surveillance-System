@@ -83,9 +83,3 @@ Feel free to contribute by:
 - Suggesting improvements
 - Adding new features
 
-## License
-[MIT License](LICENSE)
-
-## Contact
-For questions or collaborations, contact **[Your Email or GitHub Profile]**.
-
